@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+body {
+  color:#373737;
+  background: #cccccc;
+}
+
+#header_wrap {
+  background: url(../images/header-bg.jpg) 0 0 cover;
+  border-bottom: solid 1px #212121;
+}
+
 #footer_wrap {
   background: #cccccc;
 }
