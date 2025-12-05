@@ -17,6 +17,11 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           <img class="logo" src="/assets/images/logo-small.png" alt="Logo">
+          {% if site.show_downloads %}
+            <section id="downloads">
+              <a class="wishlist_link" href="{{ site.wishlist_url }}">Wishlist on Steam!</a>
+            </section>
+          {% endif %}
         </header>
     </div>
 
