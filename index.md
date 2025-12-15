@@ -9,11 +9,11 @@ Bla
 
 # About Us
 3 Frog Studio is a small team of artsits and developers with Industry experience working on our first independent game! Meet our members:
-## Chelsea
+### Chelsea
 Chelsea write a thing here
-## Elliot 
+### Elliot 
 Elliot write a thing here
-## Sarah
+### Sarah
 Sarah write a thing here
 
 # Contact
