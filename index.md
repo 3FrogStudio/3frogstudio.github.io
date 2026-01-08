@@ -1,4 +1,4 @@
-# What is this place?
+# Wizard Cleaning Simulator
 You are a spry young scrub brush that has been summoned into the world for the very first time. Surrounding you is a wonderful and mysterious school filled with mysteries. And its a complete mess! Fulfill your magical cleaning duties to restore the school to its former glory, and maybe uncover some secrets along the way!
 
 # Mechanics & How to Play
@@ -18,4 +18,4 @@ Sarah write a thing here
 
 # Contact
 [Email Us!](mailto:wizardcleaningsim@gmail.com)  
-[Join Our Discord!](https://discord.gg/6WbmaSvvU6)  
+[Join Our Discord!](https://discord.gg/mFKzS7xkad)  
