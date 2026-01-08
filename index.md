@@ -19,13 +19,13 @@ During Global Game Jam 2025 Chelsea, Sarah, Elliot, and Dotun got together a jam
 [Play the original 1 week jam here.](https://sarahmalcom.itch.io/wizard-cleaning-sim)
 
 # About Us
-3 Frog Studio is a small team of artsits and developers with industry experience working on our first independent game! Meet our members:
+3 Frog Studio is a small team of artsits and developers with industry experience working on our first independent game! Meet our members: <br>
 ### Chelsea
-Chelsea is an artist who is skilled in both 2D and 3D. They have worked at tech giants such as Google and Meta, contributing to Meta Horizon Worlds by creating 3D models and VFX.
+Chelsea is an artist who is skilled in both 2D and 3D. They have worked at tech giants such as Google and Meta, contributing to Meta Horizon Worlds by creating 3D models and VFX. <br>
 ### Elliot 
-Former mechanical engenner, Elliot, tackles animation and the technical aspects of game design. He has contributed to feature films and TV such as Stranger Things Season 5 and Wicked 1 & 2 (2025). 
+Former mechanical engenner, Elliot, tackles animation and the technical aspects of game design. He has contributed to feature films and TV such as Stranger Things Season 5 and Wicked 1 & 2 (2025).  <br>
 ### Sarah
-Sarah is an environment artist who has worked on games such as Kena: Bridge of Spirits, Bugsnax: Isle of BIGsnax, and Meta Horizon Worlds. She was a tattoo artist before becoming a game dev.
+Sarah is an environment artist who has worked on games such as Kena: Bridge of Spirits, Bugsnax: Isle of BIGsnax, and Meta Horizon Worlds. She was a tattoo artist before becoming a game dev. <br>
 
   
 # Contact
