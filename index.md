@@ -18,4 +18,4 @@ Sarah write a thing here
 
 # Contact
 [Email Us!](mailto:wizardcleaningsim@gmail.com)  
-[Join Our Discord!](https://discord.gg/mFKzS7xkad)  
+<img src = "assets/images/Discord-Symbol-Blurple.png" height="50" width="50"> [Join Our Discord!](https://discord.gg/mFKzS7xkad)  
