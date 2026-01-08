@@ -39,5 +39,4 @@ Sarah is an environment artist who has worked on games such as Kena: Bridge of S
 [Email Us!](mailto:wizardcleaningsim@gmail.com) <br>
 wizardcleaningsim@gmail.com <br>
 
-Steam Ppage comming soon.
   
