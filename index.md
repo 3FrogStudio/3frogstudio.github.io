@@ -34,9 +34,7 @@
 </style>
 
 
-.container header {
-    margin-top: 50px; /* Adjust this number to increase or decrease the space */
-  }
+
 
 
 <div class="container">
