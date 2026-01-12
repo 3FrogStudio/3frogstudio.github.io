@@ -31,11 +31,11 @@
   .member { margin-bottom: 20px; }
   h2 { margin-top: 2em; }
   hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
+
+.container header {
+    margin-top: 50px; /* Adjust this number to increase or decrease the space */
+  }
 </style>
-
-
-
-
 
 <div class="container">
     <header>
