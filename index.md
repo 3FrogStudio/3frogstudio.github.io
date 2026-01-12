@@ -16,6 +16,23 @@
     display: block;
     margin: 20px auto 10px auto;
   }
+  /* This ensures the content stays centered but doesn't break the theme's header/footer */
+.content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+/* FIX FOR THE ICONS */
+.game-logo {
+    width: 500px !important; /* Force the width */
+    height: auto !important;  /* ALLOW THE HEIGHT TO BE NATURAL (no more squish!) */
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
 /* Text formatting to match your desired look */
   h2 { margin-top: 2em; }
   hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
