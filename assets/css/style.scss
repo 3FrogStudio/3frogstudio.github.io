@@ -1,21 +1,5 @@
 @import "{{ site.theme }}";
 
-/* This ensures the content stays centered but doesn't break the theme's header/footer */
-.content-container {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 20px;
-}
-
-/* FIX FOR THE ICONS */
-.game-logo {
-    width: 500px !important; /* Force the width */
-    height: auto !important;  /* ALLOW THE HEIGHT TO BE NATURAL (no more squish!) */
-    max-width: 100%;
-    display: block;
-    margin: 0 auto;
-}
 
 /* 5. THE FOOTER - Keeps your original style */
 #footer_wrap {
