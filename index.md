@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+/*<link rel="stylesheet" href="styles.css">*/
 
 <div align="center">
 <div class="container">
@@ -8,6 +8,7 @@
     </header>
 
     <hr>
+    
 <section>
         <h2>Mechanics & How to Play</h2>
         <p>Scrubby has arcane scrubbing agents that get through the toughest stains! Looking at any dirty object or stain and left clicking will send Scrubby to scrub! Some objects can be inspected by looking at them and pressing E. This lets you view and orient the object easier for deeper cleaning! Somewhere in the classroom you can find Scrubby's friend Baggy! Baggy has an infinite pocket dimension inside him, leaving him with a hunger he can never satiate. Left click to suck up any trash or detritus you may find laying around. You can switch between Scrubby and Baggy by pressing Q. As you clean stains and consume trash, a progress bar across the top of the screen will fill up, showing you your progress in the room. Completely clean the classroom to be relieved of your magical duty!</p>
@@ -17,16 +18,15 @@
 
 <section>
         <h2>Screenshots</h2>
-<img src = "assets/images/Logo.png" height="500" width="500">
+<img src = "assets/images/Logo.png" alt="Wizard Cleaning Simulator Logo" class="game-logo">
 </section>
 
     <hr>
 
 <section>
         <h2>How it Started</h2>
-        <p>During Global Game Jam 2025 Chelsea, Sarah, Elliot, and Dotun got together a jammed out the first itteration of Wizard Cleaning Simulator. After a few months Chelsea, Sarah, and Elliot decided to make this our passion project. We have been developing this game since June 2025. 
-
-[Play the original 1 week jam here.](https://sarahmalcom.itch.io/wizard-cleaning-sim)</p>
+        <p>During Global Game Jam 2025 Chelsea, Sarah, Elliot, and Dotun got together a jammed out the first itteration of Wizard Cleaning Simulator. After a few months Chelsea, Sarah, and Elliot decided to make this our passion project. We have been developing this game since June 2025.</p>
+<p><a href="https://sarahmalcom.itch.io/wizard-cleaning-sim" target="_blank">Play the original 1 week jam here.</a></p>
     </section>
 
     <hr>
