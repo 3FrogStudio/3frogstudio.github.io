@@ -1,4 +1,26 @@
 <link rel="stylesheet" href="styles.css">
+<style>
+  /* This centers everything and fixes the max width */
+  .content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+  }
+
+  /* ICON FIXES: Forces exactly 100px height as requested */
+  .discord-icon, .cat-icon {
+    height: 100px !important;
+    width: auto !important;
+    display: block;
+    margin: 20px auto 10px auto;
+  }
+/* Text formatting to match your desired look */
+  h2 { margin-top: 2em; }
+  hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
+  .member { margin-bottom: 20px; }
+</style>
 
 <div align="center">
 <div class="container">
