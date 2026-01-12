@@ -1,13 +1,7 @@
 @import "{{ site.theme }}";
 
-
-/* 5. THE FOOTER - Keeps your original style */
-#footer_wrap {
-  background: #E5E5E5;
-  padding: 20px 0;
-  text-align: center;
+#header_wrap {
+  background: center / cover url("../images/header-bg.jpg") !important;
 }
 
-/* Ensure headings have room */
-h2 { margin-top: 2em; }
-hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
+
