@@ -1,7 +1,51 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  background: center / cover url("../images/header-bg.jpg") no-repeat !important;
-  min-height: 300px;
+  /* This points to your header-bg.jpg */
+  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
+              center / cover url("../images/header-bg.jpg") no-repeat !important;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner {
+  /* Centers the logo and button vertically */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo-header {
+  width: 150px; /* Adjust size as needed */
+  height: auto;
+}
+
+/* The Discord Button Styling */
+.header-discord-btn {
+  display: flex;
+  align-items: center;
+  background-color: #5865F2; /* Discord Blurple */
+  color: white !important;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: sans-serif;
+  transition: transform 0.2s;
+  gap: 10px;
+
+  img {
+    height: 25px;
+    width: auto;
+  }
+
+  &:hover {
+    background-color: #4752C4;
+    transform: scale(1.05);
+    text-decoration: none;
+  }
 }
 
