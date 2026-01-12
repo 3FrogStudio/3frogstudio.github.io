@@ -8,7 +8,7 @@
     font-family: sans-serif;
   }
   .discord-icon, .cat-icon {
-    height: 100px !important;
+    height: 60px !important;
     width: auto !important;
     display: block;
     margin: 20px auto 10px auto;
