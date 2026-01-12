@@ -20,16 +20,11 @@
     display: block;
     margin: 0 auto;
 }
-.content-container {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 20px;
-}
   h2 { margin-top: 2em; }
   hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
   .member { margin-bottom: 20px; }
 </style>
+
 
 <div align="center">
 <div class="container">
