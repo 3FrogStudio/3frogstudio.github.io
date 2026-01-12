@@ -26,7 +26,6 @@
 </style>
 
 
-<div align="center">
 <div class="container">
     <header>
         <h1>Wizard Cleaning Simulator</h1>
