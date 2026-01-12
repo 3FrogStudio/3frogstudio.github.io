@@ -22,9 +22,6 @@
 
     <hr>
 
-# How it Started
-
-
 <section>
         <h2>How it Started</h2>
         <p>During Global Game Jam 2025 Chelsea, Sarah, Elliot, and Dotun got together a jammed out the first itteration of Wizard Cleaning Simulator. After a few months Chelsea, Sarah, and Elliot decided to make this our passion project. We have been developing this game since June 2025. 
@@ -59,7 +56,7 @@
 <section class="contact">
         <h2>Contact</h2>
         <div class="contact-links">
-            <img src="assets/images/Discord-Symbol-Blurple.png" alt="Discord Logo" class="icon">
+            <img src="assets/images/Discord-Symbol-Blurple.png" alt="Discord Logo" class="discord-icon">
             <p><a href="https://discord.gg/mFKzS7xkad">Join Our Discord!</a></p>
             
             <img src="assets/images/HeadMasterCat_02.png" alt="Cat Icon" class="cat-icon">
