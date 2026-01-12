@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+
 <style>
   .content-container {
     max-width: 800px;
