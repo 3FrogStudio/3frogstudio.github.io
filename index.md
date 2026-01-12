@@ -6,8 +6,14 @@
     padding: 20px;
     font-family: sans-serif;
   }
-  .discord-icon, .cat-icon {
+  .discord-icon {
     height: 100px !important;
+    width: auto !important;
+    display: block;
+    margin: 20px auto 10px auto;
+  }
+    .cat-icon {
+    height: 150px !important;
     width: auto !important;
     display: block;
     margin: 20px auto 10px auto;
@@ -19,8 +25,6 @@
     display: block;
     margin: 0 auto;
 }
-  h2 { margin-top: 2em; }
-  hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
   .member { margin-bottom: 20px; }
 </style>
 
