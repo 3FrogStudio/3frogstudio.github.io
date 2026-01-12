@@ -14,8 +14,8 @@
     margin: 20px auto 10px auto;
   }
   .game-logo {
-    width: 500px !important; /* Force the width */
-    height: auto !important;  /* ALLOW THE HEIGHT TO BE NATURAL (no more squish!) */
+    width: 500px !important;
+    height: auto !important; 
     max-width: 100%;
     display: block;
     margin: 0 auto;
