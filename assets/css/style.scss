@@ -94,21 +94,24 @@ body {
 
 /* 4. IMAGE FIXES - Prevents squishing */
 .main-logo {
-  max-width: 500px;
-  width: 100%;
+  width: 500px;
   height: auto; 
-  margin: 20px auto;
+  margin: 0 auto 10px auto;
   display: block;
 }
 
 .icon {
-  width: 50px;
-  height: auto;
+  height: 100px !important;
+  width: auto !important;
+  display: block;
+  margin: 0 auto 10px auto;
 }
 
 .cat-icon {
-  width: 100px;
-  height: auto;
+  height: 100px !important;
+  width: auto !important;
+  display: block;
+  margin: 20px auto 10px auto;
 }
 
 /* 5. THE FOOTER - Keeps your original style */
@@ -123,3 +126,7 @@ h1, h2, h3 { margin-top: 1.5em; }
 hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
 a { color: #007bff; text-decoration: none; }
 a:hover { text-decoration: underline; }
+
+.contact-links p {
+    margin-bottom: 30px;
+}
