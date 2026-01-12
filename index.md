@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="styles.css">
 <style>
-  /* This centers everything and fixes the max width */
   .content-container {
     max-width: 800px;
     margin: 0 auto;
@@ -8,32 +7,25 @@
     padding: 20px;
     font-family: sans-serif;
   }
-
-  /* ICON FIXES: Forces exactly 100px height as requested */
   .discord-icon, .cat-icon {
     height: 100px !important;
     width: auto !important;
     display: block;
     margin: 20px auto 10px auto;
   }
-  /* This ensures the content stays centered but doesn't break the theme's header/footer */
-.content-container {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 20px;
-}
-
-/* FIX FOR THE ICONS */
-.game-logo {
+  .game-logo {
     width: 500px !important; /* Force the width */
     height: auto !important;  /* ALLOW THE HEIGHT TO BE NATURAL (no more squish!) */
     max-width: 100%;
     display: block;
     margin: 0 auto;
 }
-
-/* Text formatting to match your desired look */
+.content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
   h2 { margin-top: 2em; }
   hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
   .member { margin-bottom: 20px; }
