@@ -75,7 +75,7 @@
 
         <div class="member">
             <h3>Elliot</h3>
-            <p>Former mechanical engenner, Elliot, tackles animation and the technical aspects of game design. He has contributed to feature films and TV such as Stranger Things Season 5 and Wicked 1 & 2 (2025).</p>
+            <p>Former mechanical engineer, Elliot, tackles animation and the technical aspects of game design. He has contributed to feature films and TV such as Stranger Things Season 5 and Wicked 1 & 2 (2025).</p>
         </div>
 
         <div class="member">
