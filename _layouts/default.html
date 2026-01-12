@@ -5,15 +5,56 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" href="{{ '/assets/css/style.scss' | relative_url }}">
     {% seo %}
+    
+    <style>
+      /* FORCE HEADER BACKGROUND */
+      #header_wrap {
+        background: url("assets/images/header-bg.jpg") center center / cover no-repeat !important;
+        min-height: 400px !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        padding: 0 !important;
+      }
+
+      /* FORCE SIDE-BY-SIDE CENTERING */
+      #header_wrap .inner {
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100% !important;
+        max-width: 1200px !important;
+        margin: 0 auto !important;
+        gap: 60px !important;
+        float: none !important; /* Kills theme float */
+      }
+
+      /* HIDE AUTOMATIC TEXT */
+      #header_wrap h1, #header_wrap h2 {
+        display: none !important;
+      }
+
+      /* IMAGE SIZING */
+      .header-logo-img {
+        width: 300px !important;
+        height: auto !important;
+      }
+
+      .discord-img-link {
+        width: 200px !important;
+        height: auto !important;
+      }
+    </style>
   </head>
   <body>
 
     <div id="header_wrap" class="outer">
-        <header class="inner custom-header-layout">
+        <header class="inner">
           <img class="header-logo-img" src="{{ '/assets/images/logo-small.png' | relative_url }}" alt="Logo">
           
-          <a href="https://discord.gg/mFKzS7xkad" class="discord-link">
-            <img src="{{ '/assets/images/disco.jpg' | relative_url }}" alt="Join Discord">
+          <a href="https://discord.gg/mFKzS7xkad">
+            <img class="discord-img-link" src="{{ '/assets/images/disco.jpg' | relative_url }}" alt="Join Discord">
           </a>
         </header>
     </div>
