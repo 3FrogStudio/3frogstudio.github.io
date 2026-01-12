@@ -26,6 +26,8 @@
     margin: 0 auto;
 }
   .member { margin-bottom: 20px; }
+  h2 { margin-top: 2em; }
+  hr { border: 0; height: 1px; background: #bbb; margin: 40px 0; }
 </style>
 
 
