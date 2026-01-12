@@ -1,51 +1,53 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  /* This points to your header-bg.jpg */
-  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
+  /* Adds the background image and a dark tint so text/logos are visible */
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
               center / cover url("../images/header-bg.jpg") no-repeat !important;
-  min-height: 400px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  min-height: 450px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
 }
 
-.inner {
-  /* Centers the logo and button vertically */
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
+#header_wrap .inner {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  width: 100%;
 }
 
-.logo-header {
-  width: 150px; /* Adjust size as needed */
-  height: auto;
+/* Fixes the size of the main logo at the top */
+.header-logo-img {
+  width: 250px !important;
+  height: auto !important;
+  margin-bottom: 20px;
 }
 
-/* The Discord Button Styling */
-.header-discord-btn {
-  display: flex;
-  align-items: center;
+/* Styles the Discord Button */
+.header-discord-button {
   background-color: #5865F2; /* Discord Blurple */
   color: white !important;
-  padding: 12px 24px;
-  border-radius: 8px;
-  text-decoration: none;
+  padding: 12px 25px;
+  border-radius: 10px;
+  text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  gap: 12px;
   font-weight: bold;
   font-family: sans-serif;
-  transition: transform 0.2s;
-  gap: 10px;
+  transition: transform 0.2s ease;
 
+  /* Constrains the giant Discord icon size */
   img {
-    height: 25px;
-    width: auto;
+    height: 30px !important; 
+    width: auto !important;
+    margin: 0 !important;
   }
 
   &:hover {
     background-color: #4752C4;
     transform: scale(1.05);
-    text-decoration: none;
   }
 }
-
